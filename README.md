@@ -15,11 +15,6 @@ Whether it's scattered PDFs, Word docs, Excel sheets, or plain text files, this 
 - Fully tested with 27 Pytest test cases
 - Designed for extensibility and safety
 
-## 🖥️ Desktop Organizer – Demo
-
-A link to a 1 minute demo video demonstrating the functionality of 
-the tool: https://youtu.be/pJ7ma_gBGZU 
-
 ## Current Features
 
 Automatically sorts:
@@ -48,3 +43,4 @@ This project includes automated tests to verify file movement behavior and handl
 
 The project uses Pytest for all it's tests. You can run the tests in your IDE or run them all manually in the 
 terminal by simply writing `python -m pytest` in the terminal in the root of the project and hit enter.
+
