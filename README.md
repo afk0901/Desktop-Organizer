@@ -4,10 +4,10 @@
 
 Tired of your cluttered Desktop?
 
-**Desktop Organizer** is a simple yet powerful Python automation tool built for Windows that brings instant order to your chaos. It scans your Desktop and automatically moves files into folders based on file extensions — no clicks, no dragging, no nonsense.
+This is a small Python script that cleans up your Windows Desktop by sorting files into folders by extension. PDFs go with PDFs, Word docs with Word docs, and so on by running one command.
 
-Whether it's scattered PDFs, Word docs, Excel sheets, or plain text files, this script puts everything in its place. Clean workspace, clear mind.
-
+Run it once and everything is where you expect it to be!
+
 ## 🔹 Highlights
 - Built in pure Python
 - Packaged as `.exe` (runs without Python installed)
